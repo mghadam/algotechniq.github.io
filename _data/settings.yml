@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'ALGOTECHNIQ LLC', title: 'Address', department: 'Ebisu 2-28-10', institution: 'Shibuya-ku', institution_address: 'Tokyo 150-0013, Japan', phone: '(070) 8902-8057', office: 'Shu Building 2982', email: 'hello@algotechniq.com', image: 'assets/img/contact.jpg'}
+- {name: 'ALGOTECHNIQ LLC', title: 'Address', department: 'Ebisu 2-28-10', institution: 'Shibuya-ku', institution_address: 'Tokyo 150-0013, Japan', office: 'Shu Building 2982', phone: '(070) 8902-8057', email: 'hello@algotechniq.com', image: 'assets/img/contact.jpg'}
